@@ -1,0 +1,18 @@
+@import "./base/common";
+@import "./base/reset";
+@import "./utils/variables";
+@import "./utils/hidden";
+
+@import "./components/btn";
+@import "./components/container";
+@import "./components/modal";
+
+@import "./layuot/header";
+@import "./layuot/hero";
+@import "./layuot/specifics";
+@import "./layuot/activity";
+@import "./layuot/team";
+@import "./layuot/clients";
+@import "./layuot/footer";
+@import "./layuot/portfolio-navigation";
+@import "./layuot/portfolio-list";
